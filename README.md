@@ -19,6 +19,7 @@ The dashboard is designed with multiple interactive report views to provide deep
 
 ![Advance_Sales_Analysis_Dashboard_PBI](https://raw.githubusercontent.com/Devulalkethavath/-Advanced_Sales_Analysis_Dashboard_PBI./main/Screenshot%202026-05-10%20223213.png)
 
+
 # 📊 Report Snapshot (Power BI Desktop)
 
 ### 1️⃣ Executive Sales Performance Overview
