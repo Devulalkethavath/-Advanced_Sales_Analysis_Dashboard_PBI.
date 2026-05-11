@@ -219,11 +219,14 @@ This dashboard helps organizations:
 ---
 
 
+
 # 🔗 Connect With Me
 
 ## LinkedIn
-www.linkedin.com/in/devulalkethavath
----
+[Devulal Kethavath](https://www.linkedin.com/in/devulalkethavath)
+
+## GitHub
+[Devulalkethavath](https://github.com/Devulalkethavath)
 
 # ⭐ Conclusion
 
