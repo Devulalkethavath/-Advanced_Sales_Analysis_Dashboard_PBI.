@@ -15,8 +15,12 @@ The dashboard enables users to dynamically analyze sales data using interactive 
 # 🚀 Key Features & Insights
 
 The dashboard is designed with multiple interactive report views to provide deep business insights and performance tracking.
+# 📷 Dashboard Snapshot
 
----
+![Sales_Analysis_Performance_USA](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/sales1.jpeg)
+
+
+![Advance_Sales_Analysis_Dashboard_PBI](https://raw.githubusercontent.com/Devulalkethavath/-Advanced_Sales_Analysis_Dashboard_PBI./main/Screenshot%202026-05-10%20223213.png)
 
 # 📊 Report Snapshot (Power BI Desktop)
 
