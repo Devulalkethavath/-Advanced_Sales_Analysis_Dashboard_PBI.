@@ -219,20 +219,18 @@ This dashboard helps organizations:
 ---
 
 
+
 # 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/devulalkethavath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Devulal%20Kethavath-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
+  <a href="https://github.com/Devulalkethavath" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Devulalkethavath-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
-
-
-## LinkedIn
-[Devulal Kethavath](https://www.linkedin.com/in/devulalkethavath)
-
-## GitHub
-[Devulalkethavath](https://github.com/Devulalkethavath)
 
 # ⭐ Conclusion
 
