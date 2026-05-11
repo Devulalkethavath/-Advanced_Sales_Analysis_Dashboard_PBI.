@@ -218,21 +218,11 @@ This dashboard helps organizations:
 
 ---
 
-# 🎥 Interactive Dashboard Demo
-
-👉 Add your LinkedIn demo video link here.
-
-
----
 
 # 🔗 Connect With Me
 
 ## LinkedIn
-Add Your LinkedIn Profile Link
-
-## GitHub
-Add Your GitHub Profile Link
-
+www.linkedin.com/in/devulalkethavath
 ---
 
 # ⭐ Conclusion
