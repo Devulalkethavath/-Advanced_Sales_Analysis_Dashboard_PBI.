@@ -219,8 +219,14 @@ This dashboard helps organizations:
 ---
 
 
-
 # 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/devulalkethavath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Devulal%20Kethavath-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
 
 ## LinkedIn
 [Devulal Kethavath](https://www.linkedin.com/in/devulalkethavath)
